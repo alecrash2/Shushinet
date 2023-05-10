@@ -1,4 +1,4 @@
-# shushinet
+# Shushinet
 Monitors the local network, upload and download, as well as the process that is using the network, in mbps
 
 
